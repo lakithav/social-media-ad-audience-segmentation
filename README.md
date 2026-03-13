@@ -127,7 +127,7 @@ These segments provide insights into **different audience behaviors**, which can
 
 ## How to Run the Project
 
-1. Clone the repository - git clone https://github.com/your-username/.git
+1. Clone the repository : git clone [https://github.com/your-username/.git](https://github.com/lakithav/social-media-ad-audience-segmentation.git)
 2. Install required libraries
 3. Run the Jupyter notebook
 

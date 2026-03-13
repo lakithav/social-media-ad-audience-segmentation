@@ -124,19 +124,6 @@ These segments provide insights into **different audience behaviors**, which can
 
 ---
 
-## Repository Structure
-
-Social-Media-Ad-Segmentation/
-│
-├── notebook.ipynb # Main analysis notebook
-├── README.md # Project documentation
-├── figures/
-│ ├── elbow_plot.png
-│ ├── pca_clusters.png
-│ └── dendrogram.png
-└── dataset_link.txt
-
----
 
 ## How to Run the Project
 
